@@ -56,7 +56,7 @@
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": "mongodb+srv://Sasuke:Sasuke@sasuke.bsab1dl.mongodb.net/?retryWrites=true&w=majority"
+         "value": "mongodb+srv://flash2gen:FlashMusic1Gen@flashmusic1gen.2ldqper.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
