@@ -2,7 +2,7 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 6
+    API_ID = 29852138
     API_HASH = "a0f8a2ed94ee61da2794717b586c8918"
 
     CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
@@ -14,7 +14,7 @@ class Config(object):
     MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
-    START_IMG = "https://te.legra.ph/file/3792b39d8904473d6db65.jpg"
+    START_IMG = "https://te.legra.ph/file/2b81b7b48c1adf5d35e2a.jpg"
 
     SUPPORT_CHAT = "seriousvs_version10"  # Your Telegram support group chat username where your users will go and bother you
 
