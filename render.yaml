@@ -1,10 +1,10 @@
 services:
-  - type: web
+  - type: worker
     plan: free
     name: Flash
     env: python
     buildCommand: pip install -U -r requirements.txt
-    startCommand: python3 server.py & python3 -m FlashXMusic
+    startCommand: python3 -m FallenRobot
     repo: https://github.com/Zenaku2050s/ZenakuRobot      
     branch: master
     envVars:
