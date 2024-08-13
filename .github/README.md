@@ -56,7 +56,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/Zenaku2050s/ZenakuRobot && cd ZenakuRobot`
+`git clone https://github.com/Zenaku2050s/ZenakuRobot && cd FallenRobot`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
